@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="48.972" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Product list" name="Validate search functionality with valid data - Example #1.1" time="48.803">
+<system-out><![CDATA[
+Given Chrome is opened and Unacademy app is opened..........................passed
+When User clicks on login button............................................passed
+Then User Navigates onto login page.........................................passed
+When User enters mobile number "7841019238".................................passed
+And Clicks on login button..................................................passed
+And User enter the OTP......................................................passed
+And User click on verify otp button.........................................passed
+Then User navigates onto Home Page..........................................passed
+And User Clicks on search box...............................................passed
+When User fills the data from given sheetname "Sheet1" and rownumber 0 in search box.passed
+Then Relevant search result is displayed....................................passed
+]]></system-out>
+</testcase>
+</testsuite>
