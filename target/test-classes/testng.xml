@@ -5,7 +5,7 @@
     <classes>
       <class name="testrunner.Ex_01_ProductList_TestRunner"></class>
       <class name="testrunner.Ex_02_ProductList_TestRunner"></class>
-      <class name="testrunner.Excel_TestRunner"></class>
+      <class name="testrunner.Ex_03_Excel_TestRunner"></class>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
