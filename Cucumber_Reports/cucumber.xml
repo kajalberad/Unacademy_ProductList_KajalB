@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Cucumber" time="48.972" tests="1" skipped="0" failures="0" errors="0">
-<testcase classname="Product list" name="Validate search functionality with valid data - Example #1.1" time="48.803">
+<testsuite name="Cucumber" time="49.699" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Product list" name="Validate search functionality with valid data - Example #1.1" time="49.513">
 <system-out><![CDATA[
 Given Chrome is opened and Unacademy app is opened..........................passed
 When User clicks on login button............................................passed

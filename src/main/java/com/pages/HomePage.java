@@ -22,9 +22,9 @@ public class HomePage extends Utility {
 	}  
 	
 
-    
+    ////*[@placeholder='Search courses, test series and educators']
 	//Home Page search box click
-	@FindBy(xpath="//*[@placeholder='Search courses, test series and educators']")
+	@FindBy(xpath="//input")
 	private WebElement searchbox;
 	
 	public void SearchBox() throws IOException 

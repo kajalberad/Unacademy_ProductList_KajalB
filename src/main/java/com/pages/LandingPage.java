@@ -23,9 +23,9 @@ public class LandingPage extends Utility {
 		return driver.getTitle();
 	}
 	
-	
+	////*[normalize-space(text())='Log in'
 	//Landing page login button
-	@FindBy(xpath="//*[normalize-space(text())='Log in']")
+	@FindBy(xpath="(//*[text()='Log in'])[1]")
 	private WebElement loginButton;
 	
 	
